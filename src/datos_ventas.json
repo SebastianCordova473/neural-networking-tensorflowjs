@@ -1,0 +1,56 @@
+[
+  {
+    "fecha": "2021-01-01",
+    "producto": "A",
+    "precio": 10,
+    "cantidad": 100
+  },
+  {
+    "fecha": "2021-01-02",
+    "producto": "B",
+    "precio": 15,
+    "cantidad": 50
+  },
+  {
+    "fecha": "2021-01-03",
+    "producto": "C",
+    "precio": 20,
+    "cantidad": 75
+  },
+  {
+    "fecha": "2021-01-04",
+    "producto": "A",
+    "precio": 12,
+    "cantidad": 90
+  },
+  {
+    "fecha": "2021-01-05",
+    "producto": "B",
+    "precio": 14,
+    "cantidad": 65
+  },
+  {
+    "fecha": "2021-01-06",
+    "producto": "C",
+    "precio": 18,
+    "cantidad": 80
+  },
+  {
+    "fecha": "2021-01-07",
+    "producto": "A",
+    "precio": 11,
+    "cantidad": 95
+  },
+  {
+    "fecha": "2021-01-08",
+    "producto": "B",
+    "precio": 16,
+    "cantidad": 60
+  },
+  {
+    "fecha": "2021-01-09",
+    "producto": "C",
+    "precio": 22,
+    "cantidad": 70
+  }
+]
